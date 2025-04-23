@@ -1,1 +1,1 @@
-This is the updated license text from update-license branch.
+This is the updated license text from update-license branch. the issue is resolved
