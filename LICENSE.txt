@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is second line of license.txt
+=======
+This is license.txt
+>>>>>>> update-license
